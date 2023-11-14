@@ -73,12 +73,6 @@ I am a Computer Science student at Feng Chia University . I love programming, pl
 
 ## 📊 Stats
 
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
-
-📊 <b>This Week I Spent My Time On</b>
-
-<!--END_SECTION:waka-->
-
 <b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Vincent's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mengxian0913&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
