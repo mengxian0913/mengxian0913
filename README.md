@@ -11,7 +11,7 @@ I am a Computer Science student at Feng Chia University . I love programming, pl
 - 👨‍🎓 I'm a **Senior Software Engineering Student**
 - 🏸 I'm a **badminton player**
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger**
+- ✍ I'm a **Exploring tech and life adventures**
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [CSES](https://cses.fi/user/182618), [Codeforces](https://codeforces.com/profile/mengxian0913), [Leetcode](https://leetcode.com/mengxian0913/) etc.
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
