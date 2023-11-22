@@ -4,7 +4,7 @@
 
 I am a Computer Science student at Feng Chia University . I love programming, playing badminton, swimming and learning new development skills.
 
-<!-- <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318"/> -->
+<img align="right" src="./image/P1.jpg" width="auto" height="250" style="border-radius:10px; margin-left: 10px"/>
 
 ### Talking about Personal Stuffs:
 
