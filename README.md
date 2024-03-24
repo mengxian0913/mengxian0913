@@ -43,6 +43,8 @@ I am a Computer Science student at Feng Chia University . I love programming, pl
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="Latex" src="https://img.shields.io/badge/Latex-B0C4DE.svg?logo=latex&logoColor=458B00"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -51,6 +53,11 @@ I am a Computer Science student at Feng Chia University . I love programming, pl
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-F5F5F5.svg?logo=selenium&logoColor=%2361DAFB%22"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
+    <a href="#">
+        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white">
+    </a>
+
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -58,6 +65,7 @@ I am a Computer Science student at Feng Chia University . I love programming, pl
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-EE7942.svg?logo=firebase&logoColor=FFD700"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
