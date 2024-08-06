@@ -77,25 +77,4 @@ I am a Computer Science student at Feng Chia University . I love programming, pl
 
 ---
 
-## 📊 Stats
-
-<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Vincent's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mengxian0913&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Vincent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengxian0913&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
-<br/>
-
-⚡ I'm a <b>Polyglot programmer</b> in diverse languages
-<br/>
-⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<p align=center>
-  <a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="AswinBarath's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mengxian0913&theme=react&border=61dafb" height="192px"/>
-  </a>
-</p>
-<b/>
-
----
-
 ## 📕Latest Blog Posts
