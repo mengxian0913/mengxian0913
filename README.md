@@ -1,80 +1,100 @@
-<!-- # Welcome to [Vincent's](https://vincent-s-blog.web.app/) profile! <a href="https://vincent-s-blog.web.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
+# 👋 Hi there! I'm Meng-Xian Yang (Vincent)
 
-## Glad to see you here! &nbsp;
+<div align="center">
+  <a href="https://www.linkedin.com/in/meng-xian-yang-749754296/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:mengxian0913@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email"></a>
+</div>
 
-I am a Computer Science student at Feng Chia University . I love programming, playing badminton, swimming and learning new development skills.
+## 💻 About Me
 
-<!-- <img align="right" src="./image/P1.jpg" width="auto" height="250" style="border-radius:10px; margin-left: 10px"/> -->
+I'm a Computer Science student at Feng Chia University with a 4.0 GPA, passionate about software engineering, AI development, and competitive programming. I also have a deep background in badminton and am working to combine my computer science skills with my passion for the sport. I founded [KindReach](https://home.kindreachbadminton.com) to bridge both fields and am open to collaboration opportunities. Currently seeking internship opportunities, especially in Canada or North America, to further develop my skills and pursue a long-term career. Feel free to reach out if you'd like to work together!
 
-### Talking about Personal Stuffs:
+- 🏸 Competitive badminton player (FCU Team, 4th Place Nationally)
+- 🏆 Award-winning competitive programmer (ICPC, PUPC, TOPC medals)
+- 🌱 Currently learning advanced AI techniques and full-stack development
+- 🚀 Founder of [KindReach](https://home.kindreachbadminton.com), a platform with 500+ active users
+- 🌍 Seeking opportunities to build innovative solutions with global impact
 
-- 👨‍🎓 I'm a **Full Stack Developer & CS Student**
-- 🏸 I'm a **badminton player**
-- 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Exploring tech and life adventures**
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [CSES](https://cses.fi/user/182618), [Codeforces](https://codeforces.com/profile/mengxian0913), [Leetcode](https://leetcode.com/mengxian0913/) etc.
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-  - Front-end Frameworks from <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-20232a.svg?logo=vue.js&logoColor=%2361DAFB%22"></a>
-- 📬 How to reach me: [mengxian0913@gmail.com](mailto:mengxian0913@gmail.com)
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
+</p>
+
+### Frontend & Mobile
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB.svg?logo=react&logoColor=black">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white">
+</p>
+
+### Backend & Cloud
+<p>
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white">
+</p>
+
+### AI/ML
+<p>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
+  <img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?logo=YOLO&logoColor=black">
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
+</p>
+
+## 🏆 Achievements
+
+- **Certifications:** CPE (Professional Level, National PR 94), ITSA (5th Place Nationally)
+- **Competitions:** 
+  - 2024 FCU Python Challenge – Gold Award
+  - 2023 & 2024 PUPC – Silver Medal Award
+  - 2023 & 2024 TOPC – Bronze Medal Award
+  - 2022 & 2023 ICPC – Honorable Mention
+
+## 🚀 Featured Projects
+
+### ⭐ [KindReach Badminton Court Booking System](https://kindreachbadminton.com)
+A full-stack platform helping 500+ users book badminton courts across Taichung. Built with React, TypeScript, Express, and Firebase.
+
+### Baseball Facial Recognition System
+Developed a facial recognition and real-time video streaming to identify players in bullpen areas. Implemented with Python, OpenCV, and ChromaDB.
+
+### Military Vehicle Recognition System
+An AI-powered system for identifying and classifying military vehicles using YOLO object detection and SAM for segmentation.
+
+### Oracle Online Competition System
+A real-time quiz competition system enhancing classroom interaction, developed in collaboration with UCLA researchers.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mengxian0913&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengxian0913&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 📫 Connect With Me
+
+I'm passionate about building impactful applications and always open to collaboration or just a friendly chat about technology, badminton, or competitive programming!
+
+- 📧 Email: [mengxian0913@gmail.com](mailto:mengxian0913@gmail.com)
+<!-- - 🌐 Website: [vincent-s-blog.web.app](https://vincent-s-blog.web.app/) -->
+- 📱 Location: Taichung City, Taiwan
 
 ---
 
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
-<p>
-    <!-- <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> -->
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Jquery" src="https://img.shields.io/badge/Jquery-F0FFFF.svg?logo=Jquery&logoColor=00E5EE"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="#"><img alt="Latex" src="https://img.shields.io/badge/Latex-B0C4DE.svg?logo=latex&logoColor=458B00"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-F5F5F5.svg?logo=selenium&logoColor=%2361DAFB%22"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
-    <a href="#">
-        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white">
-    </a>
-
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-EE7942.svg?logo=firebase&logoColor=FFD700"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon-efefef.svg?logo=amazon&logoColor=orange"></a>
-
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-D3D3D3.svg?logo=neovim&logoColor=008B45"></a>
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/Npm-white.svg?logo=npm&logoColor=darkgreen"></a>
-
-</p>
-
----
-
-## 📕Latest Blog Posts
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mengxian0913&color=blueviolet" alt="Profile Views">
+</div>
