@@ -86,8 +86,7 @@ Designed backend architecture, article management system, and admin dashboard.
 
 ## 🏆 Achievements
 
-- **CPE — National PR 94 (Professional Level)**
-- **ITSA — 5th Place Nationally**
+- **CPE — National PR 97 (Professional Level)**
 - PUPC (Silver), TOPC (Bronze), ICPC (Honorable Mention)
 - FCU Python Challenge — **Gold Award**
 
