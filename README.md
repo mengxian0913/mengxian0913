@@ -1,100 +1,103 @@
-# 👋 Hi there! I'm Meng-Xian Yang (Vincent)
+# Hi, I'm **Meng-Xian Yang (Vincent)**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/meng-xian-yang-749754296/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:mengxian0913@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/vincent-yang-749754296/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+  </a>
+  <a href="mailto:mengxian0913@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
+  </a>
 </div>
 
-## 💻 About Me
+## About Me
 
-I'm a Computer Science student at Feng Chia University with a 4.0 GPA, passionate about software engineering, AI development, and competitive programming. I also have a deep background in badminton and am working to combine my computer science skills with my passion for the sport. I founded [KindReach](https://home.kindreachbadminton.com) to bridge both fields and am open to collaboration opportunities. Currently seeking internship opportunities, especially in Canada or North America, to further develop my skills and pursue a long-term career. Feel free to reach out if you'd like to work together!
+I'm a Computer Science student at **Feng Chia University (GPA 4.0)** focusing on **software engineering, AI development, and full-stack systems**.  
+I also have a competitive badminton background and founded **KindReach**, a sports-tech platform serving **800+ active players**.
 
-- 🏸 Competitive badminton player (FCU Team, 4th Place Nationally)
-- 🏆 Award-winning competitive programmer (ICPC, PUPC, TOPC medals)
-- 🌱 Currently learning advanced AI techniques and full-stack development
-- 🚀 Founder of [KindReach](https://home.kindreachbadminton.com), a platform with 500+ active users
-- 🌍 Seeking opportunities to build innovative solutions with global impact
+I enjoy building real-world systems, solving engineering problems, and creating applications that make an impact.
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
-</p>
-
-### Frontend & Mobile
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB.svg?logo=react&logoColor=black">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white">
-</p>
-
-### Backend & Cloud
-<p>
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white">
-</p>
-
-### AI/ML
-<p>
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
-  <img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?logo=YOLO&logoColor=black">
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
-</p>
-
-## 🏆 Achievements
-
-- **Certifications:** CPE (Professional Level, National PR 94), ITSA (5th Place Nationally)
-- **Competitions:** 
-  - 2024 FCU Python Challenge – Gold Award
-  - 2023 & 2024 PUPC – Silver Medal Award
-  - 2023 & 2024 TOPC – Bronze Medal Award
-  - 2022 & 2023 ICPC – Honorable Mention
-
-## 🚀 Featured Projects
-
-### ⭐ [KindReach Badminton Court Booking System](https://kindreachbadminton.com)
-A full-stack platform helping 500+ users book badminton courts across Taichung. Built with React, TypeScript, Express, and Firebase.
-
-### Baseball Facial Recognition System
-Developed a facial recognition and real-time video streaming to identify players in bullpen areas. Implemented with Python, OpenCV, and ChromaDB.
-
-### Military Vehicle Recognition System
-An AI-powered system for identifying and classifying military vehicles using YOLO object detection and SAM for segmentation.
-
-### Oracle Online Competition System
-A real-time quiz competition system enhancing classroom interaction, developed in collaboration with UCLA researchers.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mengxian0913&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengxian0913&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 📫 Connect With Me
-
-I'm passionate about building impactful applications and always open to collaboration or just a friendly chat about technology, badminton, or competitive programming!
-
-- 📧 Email: [mengxian0913@gmail.com](mailto:mengxian0913@gmail.com)
-<!-- - 🌐 Website: [vincent-s-blog.web.app](https://vincent-s-blog.web.app/) -->
-- 📱 Location: Taichung City, Taiwan
+- FCU Badminton Team — **Top 4 Nationally**
+- Competitive Programmer — ICPC, PUPC, TOPC medalist
+- Founder of KindReach
+- Passionate about AI, cloud, and scalable system design
 
 ---
 
+## Tech Stack
+
+- **Languages:** C++, Python, TypeScript, JavaScript, Java, C  
+- **Frontend:** React, Vue
+- **Backend:** Express, Flask
+- **Database**: MySQL, PostgreSQL
+- **Cloud:** AWS, GCP(Firebase), Cloudflare
+- **AI/ML:** OpenCV, PyTorch, YOLO, TensorFlow  
+
+---
+
+## Featured Projects
+
+### **KindReach – Sports Grouping & Booking System (2025–Present)**
+Full-stack product built from 0→1 for the badminton community.  
+Led product design, development, architecture, CI/CD, and team collaboration.  
+- **800+ users**, **150+ sessions** since launch  
+- Tech: React, Redux, Express, Firebase, TypeScript, Cloudflare, GitHub Actions  
+
+---
+
+### **Oracle Bone Script Online Examination Platform (2024–Present)**
+Collaborated with NYCU researcher Dr. Chang to build a scalable exam platform.  
+Impacts **7,000+ high school students** (expected **13,000+** in 2026).  
+- System architecture, frontend+backend implementation, requirement analysis  
+- Tech: React, Express, Firebase, TypeScript, Bootstrap  
+
+---
+
+### **Large-Scale Automated Image Recognition System – FCU AI Center (2024–2025)**
+End-to-end pipeline for video ingestion → preprocessing → detection → report generation.  
+- Includes CCTV crawling, synthetic data generation (Blender), YOLO training pipeline  
+- Tech: YOLO, SAM, Selenium, Blender scripting, Flask, PostgreSQL  
+
+---
+
+### **3D Badminton Highlight Generation System – FCU CS Department (2024–Present)**
+Modular video analysis system for tracking players and generating highlight clips.  
+- Integrated **YOLOv8 + SAM + DeepSort**, configurable processing pipeline  
+- Tech: Python, OpenCV, YOLOv8, SAM, DeepSort, Conda, Makefile  
+
+---
+
+### **KindReach Official Website (2025–Present)**
+Rebuilt front-end architecture, improved SEO/SSR, and optimized brand experience.  
+- Tech: Next.js, Tailwind, Express, Firebase, TypeScript, Redux  
+
+---
+
+### **Baseball Player Database – FCU AI Center (2024)**
+UI refactoring & API integration to modernize an existing system.  
+- Tech: React, CSS, TypeScript  
+
+---
+
+### **CMS Website – SR Creative (2024)**
+Designed backend architecture, article management system, and admin dashboard.  
+- Tech: React, Express, Firebase, TypeScript  
+
+---
+
+## 🏆 Achievements
+
+- **CPE — National PR 94 (Professional Level)**
+- **ITSA — 5th Place Nationally**
+- PUPC (Silver), TOPC (Bronze), ICPC (Honorable Mention)
+- FCU Python Challenge — **Gold Award**
+
+---
+
+## 📫 Contact
+
+- **Email:** mengxian0913@gmail.com  
+- **Location:** Taichung City, Taiwan  
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mengxian0913&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=mengxian0913&color=blueviolet">
 </div>
