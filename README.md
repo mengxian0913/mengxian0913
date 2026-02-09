@@ -76,14 +76,6 @@ I enjoy building real-world systems, solving engineering problems, and creating 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mengxian0913&theme=tokyonight" alt="Repos per Language" height="180">
-</div>
-
----
-
 ## Featured Projects
 
 ### **KindReach – Sports Grouping & Booking System (2025–Present)**
