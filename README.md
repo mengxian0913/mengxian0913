@@ -49,14 +49,18 @@ I enjoy building real-world systems, solving engineering problems, and creating 
 ### Backend & Database
 <p>
   <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white">
 </p>
 
 ### Cloud & DevOps
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonaws&logoColor=white">
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black">
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white">
@@ -69,6 +73,72 @@ I enjoy building real-world systems, solving engineering problems, and creating 
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
   <img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?logo=YOLO&logoColor=black">
 </p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mengxian0913&theme=tokyonight" alt="Repos per Language" height="180">
+</div>
+
+---
+
+## Featured Projects
+
+### **KindReach – Sports Grouping & Booking System (2025–Present)**
+Full-stack product built from 0→1 for the badminton community.  
+Led product design, development, architecture, CI/CD, and team collaboration.  
+- **800+ users**, **150+ sessions** since launch  
+- Tech: React, Redux, Express, Firebase, TypeScript, Cloudflare, GitHub Actions  
+
+---
+
+### **Oracle Bone Script Online Examination Platform (2024–Present)**
+Collaborated with NYCU researcher Dr. Chang to build a scalable exam platform.  
+Impacts **7,000+ high school students** (expected **13,000+** in 2026).  
+- System architecture, frontend+backend implementation, requirement analysis  
+- Tech: React, Express, Firebase, TypeScript, Bootstrap  
+
+---
+
+### **Large-Scale Automated Image Recognition System – FCU AI Center (2024–2025)**
+End-to-end pipeline for video ingestion → preprocessing → detection → report generation.  
+- Includes CCTV crawling, synthetic data generation (Blender), YOLO training pipeline  
+- Tech: YOLO, SAM, Selenium, Blender scripting, Flask, PostgreSQL  
+
+---
+
+### **3D Badminton Highlight Generation System – FCU CS Department (2024–Present)**
+Modular video analysis system for tracking players and generating highlight clips.  
+- Integrated **YOLOv8 + SAM + DeepSort**, configurable processing pipeline  
+- Tech: Python, OpenCV, YOLOv8, SAM, DeepSort, Conda, Makefile  
+
+---
+
+### **KindReach Official Website (2025–Present)**
+Rebuilt front-end architecture, improved SEO/SSR, and optimized brand experience.  
+- Tech: Next.js, Tailwind, Express, Firebase, TypeScript, Redux  
+
+---
+
+### **Baseball Player Database – FCU AI Center (2024)**
+UI refactoring & API integration to modernize an existing system.  
+- Tech: React, CSS, TypeScript  
+
+---
+
+### **CMS Website – SR Creative (2024)**
+Designed backend architecture, article management system, and admin dashboard.  
+- Tech: React, Express, Firebase, TypeScript  
+
+---
+
+## Achievements
+
+- **CPE — National PR 97 (Professional Level)**
+- PUPC (Silver), TOPC (Bronze), ICPC (Honorable Mention)
+- FCU Python Challenge — **Gold Award**
 
 ---
 
